@@ -34,4 +34,10 @@
         android:id="@+id/include"
         layout="@layout/content_main" />
 
+    <com.artifex.sonui.editor.DocumentView
+        android:id="@+id/doc_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    </com.artifex.sonui.editor.DocumentView>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

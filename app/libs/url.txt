@@ -1,0 +1,3 @@
+These .aar files comes from:
+https://github.com/ArtifexSoftware/mupdf-android-appkit/releases/download/1.18.1.1/mupdf-v1.18.1.1-i9730-Github-i9730-android-devkit.zip
+Which is licensed under AGPLv3.
